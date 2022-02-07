@@ -17,7 +17,7 @@
 
 <body bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
 
-    <p><iframe name="ifrm1" src="https://www.naver.com/" frameborder="0" width="1046" height="523"></iframe></p>
+    <p><iframe name="ifrm1" src="https://www.naver.com/" frameborder="0" width="1080" height="720"></iframe></p>
 
 </body>
 
