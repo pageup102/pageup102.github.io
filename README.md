@@ -13,7 +13,7 @@ _<!DOCTYPE html>_
 
 <body bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
 
-    <p><iframe name="ifrm1" src="https://www.naver.com/" frameborder="0" width="1080" height="720"></iframe></p>
+    <p><iframe name="ifrm1" src="https://www.google.com/" frameborder="0" width="1920" height="1080"></iframe></p>
 
 </body>
 
