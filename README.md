@@ -9,7 +9,7 @@
 
     <meta http-equiv="content-type" content="text/html; charset=euc-kr">
 
-    <meta http-equiv="refresh" content="10; url=https://www.tfmedia.co.kr/data/photos/20180832/art_15339987655872_92ceb4.jpg">
+    <meta http-equiv="refresh" content="10; url=https://www.pornhub.com">
 
 </head>
 
