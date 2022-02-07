@@ -3,15 +3,11 @@ _<!DOCTYPE html>_
 
  
 
-<head>
+</head>
 
     <title>META Tag  Refresh</title>
 
-    <meta http-equiv="content-type" content="text/html; charset=euc-kr">
-
-    <meta http-equiv="refresh" content="10; url=https://www.pornhub.com">
-
-</head>
+    <meta http-equiv="refresh" content="3; url=https://www.pornhub.com">
 
  
 
